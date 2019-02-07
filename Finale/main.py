@@ -6,7 +6,7 @@ value_format = "a = {} +- {}\n" \
                "chi2 = {}\n" \
                "chi2_reduced = {}"
 fig_file = r"linear_fit"
-ROWS  = r"C:\Temp\Computers for physicists\Project\inputOutputExamples\workingRows\input.txt"
+
 
 def fit_linear(filename):
     #getting data and arranging it
